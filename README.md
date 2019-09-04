@@ -36,3 +36,5 @@ This is a link to [Google](https://www.google.com/).
 -[ ] Time
 
 :smile: This assignment looks good.
+
+Picture of a dog ![](https://www.medicalnewstoday.com/content//images/articles/322/322868/golden-retriever-puppy.jpg)
